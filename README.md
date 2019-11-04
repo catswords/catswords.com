@@ -1,3 +1,3 @@
-# catswords.github.io
+# catswords.com
 
-catswords website
+catswords company website
